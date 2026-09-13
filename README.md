@@ -19,3 +19,6 @@ IR frameworks:
 Distributed (DQC):
 - [InQuIR](https://github.com/team-InQuIR/InQuIR)
 - [NetQIR](https://github.com/NetQIR/netqir-spec)
+
+Misc:
+- [SIQPII](https://yawlang.dev/SIQPII/preview.html)
